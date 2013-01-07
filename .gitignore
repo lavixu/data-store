@@ -1,0 +1,4 @@
+elasticsearch/data
+elasticsearch/logs
+redis/dump.rdb
+redis/redis.log
