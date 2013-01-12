@@ -2,5 +2,7 @@
 elasticsearch/data
 elasticsearch/logs
 elasticsearch/bin/service/*.pid
+elasticsearch/bin/service/*.status
+elasticsearch/*.log
 redis/dump.rdb
 redis/redis.log
