@@ -1,0 +1,180 @@
+WARN   | wrapper  | 2013/01/06 01:09:36 | Unable to write to the configured log directory: /Users/ruihu/Documents/elasticsearch-0.20.2/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/06 01:09:36 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/06 01:09:36 | Unable to write to the configured log file: /Users/ruihu/Documents/elasticsearch-0.20.2/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/06 01:09:36 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/06 01:09:36 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/06 01:09:36 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2013/01/06 01:09:36 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/06 01:09:36 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/06 01:09:36 | 
+STATUS | wrapper  | 2013/01/06 01:09:37 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/06 01:09:37 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/06 21:25:39 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/06 21:25:40 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/06 21:26:08 | Unable to write to the configured log directory: /Users/ruihu/Documents/elasticsearch-0.20.2/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/06 21:26:08 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/06 21:26:08 | Unable to write to the configured log file: /Users/ruihu/Documents/elasticsearch-0.20.2/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/06 21:26:08 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/06 21:26:08 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/06 21:26:08 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2013/01/06 21:26:08 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/06 21:26:08 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/06 21:26:08 | 
+STATUS | wrapper  | 2013/01/06 21:26:08 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/06 21:26:09 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/06 21:26:15 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/06 21:26:16 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/06 21:27:46 | Unable to write to the configured log directory: /Users/ruihu/Documents/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/06 21:27:46 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/06 21:27:46 | Unable to write to the configured log file: /Users/ruihu/Documents/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/06 21:27:46 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/06 21:27:46 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/06 21:27:46 | Java Service Wrapper Community Edition 64-bit 3.5.14
+STATUS | wrapper  | 2013/01/06 21:27:46 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/06 21:27:46 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/06 21:27:46 | 
+STATUS | wrapper  | 2013/01/06 21:27:46 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/06 21:27:46 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/07 15:03:51 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/07 15:03:53 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/07 23:08:07 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/07 23:08:07 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/07 23:08:07 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/07 23:08:07 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/07 23:08:07 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/07 23:08:07 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/07 23:08:07 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/07 23:08:07 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/07 23:08:07 | 
+STATUS | wrapper  | 2013/01/07 23:08:07 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/07 23:08:08 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/07 23:38:03 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/07 23:38:04 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/07 12:48:57 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/07 12:48:57 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/07 12:48:57 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/07 12:48:57 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/07 12:48:57 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/07 12:48:57 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/07 12:48:57 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/07 12:48:57 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/07 12:48:57 | 
+STATUS | wrapper  | 2013/01/07 12:48:57 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/07 12:48:57 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/07 21:50:55 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/07 21:50:56 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/07 21:51:19 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/07 21:51:19 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/07 21:51:19 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/07 21:51:19 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/07 21:51:19 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/07 21:51:19 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/07 21:51:19 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/07 21:51:19 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/07 21:51:19 | 
+STATUS | wrapper  | 2013/01/07 21:51:19 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/07 21:51:20 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/09 11:47:38 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/09 11:47:39 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/09 11:48:04 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/09 11:48:04 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/09 11:48:04 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/09 11:48:04 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/09 11:48:04 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/09 11:48:04 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/09 11:48:04 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/09 11:48:04 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/09 11:48:04 | 
+STATUS | wrapper  | 2013/01/09 11:48:04 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/09 11:48:05 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/09 17:36:57 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/09 17:36:58 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/09 17:37:16 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/09 17:37:16 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/09 17:37:16 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/09 17:37:16 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/09 17:37:16 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/09 17:37:16 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/09 17:37:16 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/09 17:37:16 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/09 17:37:16 | 
+STATUS | wrapper  | 2013/01/09 17:37:16 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/09 17:37:17 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/09 18:58:36 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/09 18:58:37 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/09 18:58:47 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/09 18:58:47 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/09 18:58:47 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/09 18:58:47 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/09 18:58:47 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/09 18:58:47 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/09 18:58:47 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/09 18:58:47 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/09 18:58:47 | 
+STATUS | wrapper  | 2013/01/09 18:58:47 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/09 18:58:47 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/09 22:42:50 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/09 22:42:52 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/09 22:42:59 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/09 22:42:59 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/09 22:42:59 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/09 22:42:59 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/09 22:42:59 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/09 22:42:59 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/09 22:42:59 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/09 22:42:59 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/09 22:42:59 | 
+STATUS | wrapper  | 2013/01/09 22:42:59 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/09 22:43:00 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/10 10:05:20 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/10 10:05:21 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/10 10:12:08 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/10 10:12:08 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/10 10:12:08 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/10 10:12:08 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/10 10:12:08 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/10 10:12:08 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/10 10:12:08 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/10 10:12:08 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/10 10:12:08 | 
+STATUS | wrapper  | 2013/01/10 10:12:08 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/10 10:12:09 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/10 20:54:45 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/10 20:54:46 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/11 11:17:04 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/11 11:17:04 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/11 11:17:04 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/11 11:17:04 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/11 11:17:04 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/11 11:17:04 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/11 11:17:04 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/11 11:17:04 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/11 11:17:04 | 
+STATUS | wrapper  | 2013/01/11 11:17:05 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/11 11:17:05 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/11 11:19:50 | TERM trapped.  Shutting down.
+STATUS | wrapper  | 2013/01/11 11:19:51 | <-- Wrapper Stopped
+WARN   | wrapper  | 2013/01/11 11:20:27 | Unable to write to the configured log directory: /home/ruihu/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/11 11:20:27 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/11 11:20:27 | Unable to write to the configured log file: /home/ruihu/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/11 11:20:27 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/11 11:20:27 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/11 11:20:27 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/11 11:20:27 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/11 11:20:27 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/11 11:20:27 | 
+STATUS | wrapper  | 2013/01/11 11:20:27 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/11 11:20:27 | WrapperManager: Initializing...
+STATUS | wrapper  | 2013/01/11 18:07:25 | TERM trapped.  Shutting down.
+WARN   | wrapper  | 2013/01/11 18:07:27 | JVM exited unexpectedly while stopping the application.
+WARN   | wrapper  | 2013/01/11 18:25:13 | Unable to write to the configured log directory: /home/ruihu/data-store/elasticsearch/logs (No such file or directory)
+WARN   | wrapper  | 2013/01/11 18:25:13 |   The directory does not exist.
+WARN   | wrapper  | 2013/01/11 18:25:13 | Unable to write to the configured log file: /home/ruihu/data-store/elasticsearch/logs/service.log (No such file or directory)
+WARN   | wrapper  | 2013/01/11 18:25:13 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2013/01/11 18:25:13 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2013/01/11 18:25:13 | Java Service Wrapper Community Edition 32-bit 3.5.14
+STATUS | wrapper  | 2013/01/11 18:25:13 |   Copyright (C) 1999-2011 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2013/01/11 18:25:13 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2013/01/11 18:25:13 | 
+STATUS | wrapper  | 2013/01/11 18:25:14 | Launching a JVM...
+INFO   | jvm 1    | 2013/01/11 18:25:14 | WrapperManager: Initializing...
