@@ -1,5 +1,6 @@
+*.DS_Store
 elasticsearch/data
 elasticsearch/logs
-elasticsearch/bin/service/elasticsearch.pid
+elasticsearch/bin/service/*.pid
 redis/dump.rdb
 redis/redis.log
